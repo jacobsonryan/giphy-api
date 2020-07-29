@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19d8d70d35642a5dae3d5903cbdb9312",
+    "revision": "e9e4e4cfe862f874267176fc049bca9b",
     "url": "/giphy-api/index.html"
   },
   {
