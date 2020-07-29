@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/giphy-api/static/css/main.81d55489.chunk.css",
+    "main.css": "/giphy-api/static/css/main.0672ff02.chunk.css",
     "main.js": "/giphy-api/static/js/main.e902a175.chunk.js",
     "main.js.map": "/giphy-api/static/js/main.e902a175.chunk.js.map",
     "runtime-main.js": "/giphy-api/static/js/runtime-main.aa0f65cc.js",
@@ -8,15 +8,15 @@
     "static/js/2.16cd20be.chunk.js": "/giphy-api/static/js/2.16cd20be.chunk.js",
     "static/js/2.16cd20be.chunk.js.map": "/giphy-api/static/js/2.16cd20be.chunk.js.map",
     "index.html": "/giphy-api/index.html",
-    "precache-manifest.d90da5bfcd0644e784ceda57e1580fc3.js": "/giphy-api/precache-manifest.d90da5bfcd0644e784ceda57e1580fc3.js",
+    "precache-manifest.55d86c90eb28121fc3375b2764b3b416.js": "/giphy-api/precache-manifest.55d86c90eb28121fc3375b2764b3b416.js",
     "service-worker.js": "/giphy-api/service-worker.js",
-    "static/css/main.81d55489.chunk.css.map": "/giphy-api/static/css/main.81d55489.chunk.css.map",
+    "static/css/main.0672ff02.chunk.css.map": "/giphy-api/static/css/main.0672ff02.chunk.css.map",
     "static/js/2.16cd20be.chunk.js.LICENSE.txt": "/giphy-api/static/js/2.16cd20be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa0f65cc.js",
     "static/js/2.16cd20be.chunk.js",
-    "static/css/main.81d55489.chunk.css",
+    "static/css/main.0672ff02.chunk.css",
     "static/js/main.e902a175.chunk.js"
   ]
 }
